@@ -25,7 +25,7 @@
 		</dependency>
 
 
-		<!--黎城奕加的包-->
+		<!--web的包-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
@@ -80,6 +80,14 @@
 			<artifactId>druid-spring-boot-starter</artifactId>
 			<version>1.1.9</version>
 		</dependency>
+		<!--打印日志-->
+		<!-- https://mvnrepository.com/artifact/com.orhanobut/logger -->
+		<dependency>
+			<groupId>com.orhanobut</groupId>
+			<artifactId>logger</artifactId>
+			<version>1.15</version>
+		</dependency>
+
 
 	</dependencies>
 
